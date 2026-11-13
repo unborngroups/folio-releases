@@ -8,9 +8,9 @@ Get the latest files from the [Releases page](https://github.com/unborngroups/fo
 
 | Device | File | How to install |
 |---|---|---|
-| Android phone | `Folio-1.0.apk` | Open it on the phone and allow installing from this source when asked. |
-| Any Android device | `Folio-1.0-universal.apk` | Use this if the file above doesn't install. |
-| Windows 10/11 | `Folio-1.0.0.msi` | Double-click. If "Windows protected your PC" appears, click **More info › Run anyway**. |
-| Mac (Apple Silicon) | `Folio-1.0.0.dmg` | Open it, drag Folio to Applications. The first time, right-click Folio › **Open**. |
+| Android phone | `Folio-<version>.apk` | Open it on the phone and allow installing from this source when asked. |
+| Any Android device | `Folio-<version>-universal.apk` | Use this if the file above doesn't install. |
+| Windows 10/11 | `Folio-<version>.msi` | Double-click. If "Windows protected your PC" appears, click **More info › Run anyway**. |
+| Mac (Apple Silicon) | `Folio-<version>.dmg` | Open it, drag Folio to Applications. The first time, right-click Folio › **Open**. |
 
 The installers aren't code-signed yet, which is why Windows and macOS show a warning the first time.
